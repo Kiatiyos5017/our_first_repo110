@@ -1,10 +1,6 @@
 A
 B BBB
 C CCC
-<<<<<<< HEAD
 D DDD
-E
-=======
-D
 E EEE
->>>>>>> E1
+
